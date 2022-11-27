@@ -48,7 +48,7 @@ Clone down this repository. You will need `Android Studios` and `git` installed 
 
 ## 🛠 Installation and Setup Instructions
 
-1. Installation: `Visit [_here_]`(https://developer.android.com/studio)
+1. Installation: `Visit`(https://developer.android.com/studio)
 
 ### Show your support
 
