@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495621793924",
+    "project_id": "connect-abe38",
+    "storage_bucket": "connect-abe38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495621793924:android:a5f92a6157fe3a91007ad1",
+        "android_client_info": {
+          "package_name": "com.app.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495621793924-q6ehg7ql28h5q24gib6hiepoa9etg402.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3f-QlT5oKN9NRZZLQOpdFTt7dIodmdxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495621793924-q6ehg7ql28h5q24gib6hiepoa9etg402.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

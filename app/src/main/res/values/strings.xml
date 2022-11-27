@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Connect</string>
+    <string name="quick_chat">Quick Chat</string>
+    <string name="logo">Logo</string>
+    <string name="chat_with_your_loved_ones">Chat with your loved ones.</string>
+    <string name="from">from</string>
+    <string name="shayanb">ShayanB</string>
+    <string name="connect">Connect</string>
+    <string name="connect_with_your_loved_ones">Connect with your loved ones.</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_a_user">Not a User?</string>
+    <string name="already_a_user">Already a user?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="your_name">Your Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="chats">CHATS</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="status">STATUS</string>
+    <string name="user_profile_toolbar_title">Profile</string>
+    <string name="user_profile_name_tag">Name</string>
+    <string name="user_profile_name_tag_hint">User Name</string>
+    <string name="user_profile_phone_tag">Phone</string>
+    <string name="user_profile_phone_tag_hint">User Phonenumber</string>
+    <string name="about">About</string>
+    <string name="phone">Phone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

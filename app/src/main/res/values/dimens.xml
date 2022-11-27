@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="user_profile_toolbar_title_text_size">20sp</dimen>
+    <dimen name="user_profile_cardview_width">200dp</dimen>
+    <dimen name="user_profile_cardview_height">200dp</dimen>
+    <dimen name="user_profile_cardviewcorner_radius">200dp</dimen>
+    <dimen name="user_profile_imageview_width">200dp</dimen>
+    <dimen name="user_profile_imageview_height">200dp</dimen>
+</resources>
