@@ -1,0 +1,298 @@
+[
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_record_selector.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\record_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable-v24_ic_baseline_phone_24.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable-v24\\ic_baseline_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\font_spartan_thin.otf.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\font\\spartan_thin.otf"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_sender_shape.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\sender_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_ic_baseline_done_outline_24.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\ic_baseline_done_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable-v24_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable-v24\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_activity_create_user_with_phone.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\activity_create_user_with_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_shape_dialog.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\shape_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_screenshot_btn_pressed.png.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\screenshot_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_ic_baseline_cameraswitch_24.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\ic_baseline_cameraswitch_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_fragment_camera.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable-v24_ic_person.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable-v24\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable-xhdpi_ic_otp.png.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable-xhdpi\\ic_otp.png"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_receiver_text_item.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\receiver_text_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable-v24_ic_baseline_mode_edit_24.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable-v24\\ic_baseline_mode_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_fragment_chat.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_empty_background.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\empty_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_profile_user_icon.jpg.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\profile_user_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_activity_verify_otp.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\activity_verify_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_ic_baseline_videocam_24.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\ic_baseline_videocam_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_receiver_shape.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\receiver_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_activity_image_view.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\activity_image_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_fragment_status.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\fragment_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-pngs-40:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable-xhdpi_border.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable-xhdpi\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable-xhdpi_logo_splash.png.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable-xhdpi\\logo_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_rounded_corners.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable-xhdpi_border_left.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable-xhdpi\\border_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_inputbox.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\inputbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_screenshot_btn.png.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\screenshot_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_dialog_layout.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_ic_send_26.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\ic_send_26.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_button.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\font_spartan_bold.otf.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\font\\spartan_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.app.chatapp-merged_res-45:/mipmap-hdpi_logo.png.flat",
+        "source": "com.app.chatapp-main-47:/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\mipmap-hdpi_logo_splash.png.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\mipmap-hdpi\\logo_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable-xhdpi_ic_plane.png.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable-xhdpi\\ic_plane.png"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_sender_text_item.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\sender_text_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_arrow_left.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\arrow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_camera_white.png.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\camera_white.png"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_ic_camera_24.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\ic_camera_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_activity_phone_sign_up.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\activity_phone_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable-xhdpi_ic_back.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable-xhdpi\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_chat_list_item.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\chat_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\font_spartan_regular.otf.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\font\\spartan_regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_ic_baseline_photo_24.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\ic_baseline_photo_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_arrow_right.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable-xhdpi_border_right.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable-xhdpi\\border_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-merged_res-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\bagch\\.gradle\\daemon\\7.4\\com.app.chatapp-main-47:\\drawable\\ic_launcher_background.xml"
+    }
+]

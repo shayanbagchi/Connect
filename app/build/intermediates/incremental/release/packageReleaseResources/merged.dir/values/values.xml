@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="dark_green">#075E54</color>
+    <color name="primary_purple">#7b39ed</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="user_profile_cardview_height">200dp</dimen>
+    <dimen name="user_profile_cardview_width">200dp</dimen>
+    <dimen name="user_profile_cardviewcorner_radius">200dp</dimen>
+    <dimen name="user_profile_imageview_height">200dp</dimen>
+    <dimen name="user_profile_imageview_width">200dp</dimen>
+    <dimen name="user_profile_toolbar_title_text_size">20sp</dimen>
+    <string name="about">About</string>
+    <string name="already_a_user">Already a user?</string>
+    <string name="app_name">Connect</string>
+    <string name="chat_with_your_loved_ones">Chat with your loved ones.</string>
+    <string name="chats">CHATS</string>
+    <string name="connect">Connect</string>
+    <string name="connect_with_your_loved_ones">Connect with your loved ones.</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="default_web_client_id" translatable="false">495621793924-q6ehg7ql28h5q24gib6hiepoa9etg402.apps.googleusercontent.com</string>
+    <string name="email">Email</string>
+    <string name="from">from</string>
+    <string name="gcm_defaultSenderId" translatable="false">495621793924</string>
+    <string name="google_api_key" translatable="false">AIzaSyB3f-QlT5oKN9NRZZLQOpdFTt7dIodmdxc</string>
+    <string name="google_app_id" translatable="false">1:495621793924:android:a5f92a6157fe3a91007ad1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB3f-QlT5oKN9NRZZLQOpdFTt7dIodmdxc</string>
+    <string name="google_storage_bucket" translatable="false">connect-abe38.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">Logo</string>
+    <string name="not_a_user">Not a User?</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="project_id" translatable="false">connect-abe38</string>
+    <string name="quick_chat">Quick Chat</string>
+    <string name="shayanb">ShayanB</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="status">STATUS</string>
+    <string name="user_profile_name_tag">Name</string>
+    <string name="user_profile_name_tag_hint">User Name</string>
+    <string name="user_profile_phone_tag">Phone</string>
+    <string name="user_profile_phone_tag_hint">User Phonenumber</string>
+    <string name="user_profile_toolbar_title">Profile</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="your_name">Your Name</string>
+    <style name="Dialog">
+        <item name="android:windowBackground">@drawable/empty_background</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowMinWidthMajor">80%</item>
+        <item name="windowActionBar">false</item>
+    </style>
+    <style name="Theme.ChatApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary_purple</item>
+        <item name="colorPrimaryVariant">@color/primary_purple</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
