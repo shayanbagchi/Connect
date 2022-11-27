@@ -1,4 +1,4 @@
-# Connect - A chat app to connect people from around the world.
+# Connect - A chat app to connect people around the world.
 > This is a chat application made in Android Studio.
 > Apk Link [_here_](https://shayanb-68fb5.web.app/). <!-- If you have the project hosted somewhere, include the link here. -->
 
@@ -48,16 +48,11 @@ Clone down this repository. You will need `Android Studios` and `git` installed 
 
 ## 🛠 Installation and Setup Instructions
 
-1. Installation: `Visit [_here_](https://developer.android.com/studio)`
+1. Installation: `Visit [_here_]`(https://developer.android.com/studio)
 
 ### Show your support
 
 Give a ⭐ if you like this website!
-
-
-## Acknowledgements
-Give credit here.
-- This logo was made by Ujjwal Mishra
 
 
 <!-- Optional -->
