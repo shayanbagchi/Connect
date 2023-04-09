@@ -41,19 +41,6 @@ List the ready features here:
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
-
-## Getting Started
-
-Clone down this repository. You will need `Android Studios` and `git` installed globally on your machine.
-
-## 🛠 Installation and Setup Instructions
-
-1. Clone this repository.
-2. Install the dependencies by running npm install in the project directory.
-3. Create a Firebase project and configure the Firebase credentials in the .env file.
-4. Start the development server by running npm start.
-5. Open your browser and go to http://localhost:3000 to see the Dashboard App in action.
-
 ### Show your support
 
 Give a ⭐ if you like this website!
